@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B043EFF17EC2F04000E8741 /* Files.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B043EFD17EC2F04000E8741 /* Files.m */; };
+		4B043F0017EC2F04000E8741 /* Files.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B043EFE17EC2F04000E8741 /* Files.xib */; };
+		4B1873E017EB1425009D247E /* excel.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873D917EB1425009D247E /* excel.png */; };
+		4B1873E117EB1425009D247E /* msword.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873DA17EB1425009D247E /* msword.png */; };
+		4B1873E217EB1425009D247E /* music.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873DB17EB1425009D247E /* music.png */; };
+		4B1873E317EB1425009D247E /* pdf.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873DC17EB1425009D247E /* pdf.png */; };
+		4B1873E417EB1425009D247E /* pictures.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873DD17EB1425009D247E /* pictures.png */; };
+		4B1873E517EB1425009D247E /* powerpoint.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873DE17EB1425009D247E /* powerpoint.png */; };
+		4B1873E617EB1425009D247E /* video.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873DF17EB1425009D247E /* video.png */; };
+		4B1873E817EB2BC7009D247E /* white.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873E717EB2BC7009D247E /* white.png */; };
+		4B1873EA17EB2DF2009D247E /* ss.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B1873E917EB2DF2009D247E /* ss.png */; };
+		4B43A4E117E9D39A00B7A522 /* FileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B43A4DF17E9D39A00B7A522 /* FileManager.m */; };
+		4B43A4E217E9D39A00B7A522 /* FileManager.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B43A4E017E9D39A00B7A522 /* FileManager.xib */; };
 		4B7B3D6C17E0AB3D00B6BEC2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7B3D6B17E0AB3D00B6BEC2 /* UIKit.framework */; };
 		4B7B3D6E17E0AB3D00B6BEC2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7B3D6D17E0AB3D00B6BEC2 /* Foundation.framework */; };
 		4B7B3D7017E0AB3D00B6BEC2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7B3D6F17E0AB3D00B6BEC2 /* CoreGraphics.framework */; };
@@ -18,9 +31,28 @@
 		4B7B3D8217E0AB3D00B6BEC2 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B7B3D8117E0AB3D00B6BEC2 /* Default-568h@2x.png */; };
 		4B7B3D8517E0AB3D00B6BEC2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B7B3D8417E0AB3D00B6BEC2 /* ViewController.m */; };
 		4B7B3D8817E0AB3D00B6BEC2 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B7B3D8617E0AB3D00B6BEC2 /* ViewController.xib */; };
+		4B7B3D9117E0AB7E00B6BEC2 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7B3D9017E0AB7E00B6BEC2 /* libsqlite3.0.dylib */; };
+		4B7B3D9317E0AB8600B6BEC2 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B7B3D9217E0AB8600B6BEC2 /* libz.dylib */; };
+		4B7B3D9617E0AB9C00B6BEC2 /* Dataware.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B7B3D9517E0AB9C00B6BEC2 /* Dataware.m */; };
+		4BF0E8B017E88E970004A924 /* Quotation.sql in Resources */ = {isa = PBXBuildFile; fileRef = 4BF0E8AF17E88E970004A924 /* Quotation.sql */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B043EFC17EC2F04000E8741 /* Files.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Files.h; sourceTree = "<group>"; };
+		4B043EFD17EC2F04000E8741 /* Files.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Files.m; sourceTree = "<group>"; };
+		4B043EFE17EC2F04000E8741 /* Files.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Files.xib; sourceTree = "<group>"; };
+		4B1873D917EB1425009D247E /* excel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = excel.png; sourceTree = "<group>"; };
+		4B1873DA17EB1425009D247E /* msword.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = msword.png; sourceTree = "<group>"; };
+		4B1873DB17EB1425009D247E /* music.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = music.png; sourceTree = "<group>"; };
+		4B1873DC17EB1425009D247E /* pdf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pdf.png; sourceTree = "<group>"; };
+		4B1873DD17EB1425009D247E /* pictures.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pictures.png; sourceTree = "<group>"; };
+		4B1873DE17EB1425009D247E /* powerpoint.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = powerpoint.png; sourceTree = "<group>"; };
+		4B1873DF17EB1425009D247E /* video.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = video.png; sourceTree = "<group>"; };
+		4B1873E717EB2BC7009D247E /* white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white.png; sourceTree = "<group>"; };
+		4B1873E917EB2DF2009D247E /* ss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss.png; sourceTree = "<group>"; };
+		4B43A4DE17E9D39A00B7A522 /* FileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FileManager.h; sourceTree = "<group>"; };
+		4B43A4DF17E9D39A00B7A522 /* FileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FileManager.m; sourceTree = "<group>"; };
+		4B43A4E017E9D39A00B7A522 /* FileManager.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FileManager.xib; sourceTree = "<group>"; };
 		4B7B3D6817E0AB3D00B6BEC2 /* Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B7B3D6B17E0AB3D00B6BEC2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4B7B3D6D17E0AB3D00B6BEC2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -37,6 +69,11 @@
 		4B7B3D8317E0AB3D00B6BEC2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		4B7B3D8417E0AB3D00B6BEC2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4B7B3D8717E0AB3D00B6BEC2 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		4B7B3D9017E0AB7E00B6BEC2 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		4B7B3D9217E0AB8600B6BEC2 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		4B7B3D9417E0AB9C00B6BEC2 /* Dataware.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dataware.h; sourceTree = "<group>"; };
+		4B7B3D9517E0AB9C00B6BEC2 /* Dataware.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dataware.m; sourceTree = "<group>"; };
+		4BF0E8AF17E88E970004A924 /* Quotation.sql */ = {isa = PBXFileReference; lastKnownFileType = file; path = Quotation.sql; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +81,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B7B3D9317E0AB8600B6BEC2 /* libz.dylib in Frameworks */,
+				4B7B3D9117E0AB7E00B6BEC2 /* libsqlite3.0.dylib in Frameworks */,
 				4B7B3D6C17E0AB3D00B6BEC2 /* UIKit.framework in Frameworks */,
 				4B7B3D6E17E0AB3D00B6BEC2 /* Foundation.framework in Frameworks */,
 				4B7B3D7017E0AB3D00B6BEC2 /* CoreGraphics.framework in Frameworks */,
@@ -53,9 +92,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4B1873D817EB1425009D247E /* Hi */ = {
+			isa = PBXGroup;
+			children = (
+				4B1873D917EB1425009D247E /* excel.png */,
+				4B1873DA17EB1425009D247E /* msword.png */,
+				4B1873DB17EB1425009D247E /* music.png */,
+				4B1873DC17EB1425009D247E /* pdf.png */,
+				4B1873DD17EB1425009D247E /* pictures.png */,
+				4B1873DE17EB1425009D247E /* powerpoint.png */,
+				4B1873DF17EB1425009D247E /* video.png */,
+				4B1873E717EB2BC7009D247E /* white.png */,
+				4B1873E917EB2DF2009D247E /* ss.png */,
+			);
+			path = Hi;
+			sourceTree = "<group>";
+		};
 		4B7B3D5F17E0AB3C00B6BEC2 = {
 			isa = PBXGroup;
 			children = (
+				4BF0E8AF17E88E970004A924 /* Quotation.sql */,
+				4B7B3D9217E0AB8600B6BEC2 /* libz.dylib */,
+				4B7B3D9017E0AB7E00B6BEC2 /* libsqlite3.0.dylib */,
+				4B1873D817EB1425009D247E /* Hi */,
 				4B7B3D7117E0AB3D00B6BEC2 /* Sample */,
 				4B7B3D6A17E0AB3D00B6BEC2 /* Frameworks */,
 				4B7B3D6917E0AB3D00B6BEC2 /* Products */,
@@ -85,9 +144,17 @@
 			children = (
 				4B7B3D7A17E0AB3D00B6BEC2 /* AppDelegate.h */,
 				4B7B3D7B17E0AB3D00B6BEC2 /* AppDelegate.m */,
+				4B7B3D9417E0AB9C00B6BEC2 /* Dataware.h */,
+				4B7B3D9517E0AB9C00B6BEC2 /* Dataware.m */,
 				4B7B3D8317E0AB3D00B6BEC2 /* ViewController.h */,
 				4B7B3D8417E0AB3D00B6BEC2 /* ViewController.m */,
 				4B7B3D8617E0AB3D00B6BEC2 /* ViewController.xib */,
+				4B43A4DE17E9D39A00B7A522 /* FileManager.h */,
+				4B43A4DF17E9D39A00B7A522 /* FileManager.m */,
+				4B43A4E017E9D39A00B7A522 /* FileManager.xib */,
+				4B043EFC17EC2F04000E8741 /* Files.h */,
+				4B043EFD17EC2F04000E8741 /* Files.m */,
+				4B043EFE17EC2F04000E8741 /* Files.xib */,
 				4B7B3D7217E0AB3D00B6BEC2 /* Supporting Files */,
 			);
 			path = Sample;
@@ -163,6 +230,18 @@
 				4B7B3D8017E0AB3D00B6BEC2 /* Default@2x.png in Resources */,
 				4B7B3D8217E0AB3D00B6BEC2 /* Default-568h@2x.png in Resources */,
 				4B7B3D8817E0AB3D00B6BEC2 /* ViewController.xib in Resources */,
+				4BF0E8B017E88E970004A924 /* Quotation.sql in Resources */,
+				4B43A4E217E9D39A00B7A522 /* FileManager.xib in Resources */,
+				4B1873E017EB1425009D247E /* excel.png in Resources */,
+				4B1873E117EB1425009D247E /* msword.png in Resources */,
+				4B1873E217EB1425009D247E /* music.png in Resources */,
+				4B1873E317EB1425009D247E /* pdf.png in Resources */,
+				4B1873E417EB1425009D247E /* pictures.png in Resources */,
+				4B1873E517EB1425009D247E /* powerpoint.png in Resources */,
+				4B1873E617EB1425009D247E /* video.png in Resources */,
+				4B1873E817EB2BC7009D247E /* white.png in Resources */,
+				4B1873EA17EB2DF2009D247E /* ss.png in Resources */,
+				4B043F0017EC2F04000E8741 /* Files.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +255,9 @@
 				4B7B3D7817E0AB3D00B6BEC2 /* main.m in Sources */,
 				4B7B3D7C17E0AB3D00B6BEC2 /* AppDelegate.m in Sources */,
 				4B7B3D8517E0AB3D00B6BEC2 /* ViewController.m in Sources */,
+				4B7B3D9617E0AB9C00B6BEC2 /* Dataware.m in Sources */,
+				4B43A4E117E9D39A00B7A522 /* FileManager.m in Sources */,
+				4B043EFF17EC2F04000E8741 /* Files.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,7 +295,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Agility Logistics Corp";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Agility Logistics Corp";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -228,6 +311,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "1A1ECBC1-320F-4A61-AED1-E4C1F58DF3F3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1A1ECBC1-320F-4A61-AED1-E4C1F58DF3F3";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -244,7 +329,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Agility Logistics Corp";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Agility Logistics Corp";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -252,6 +338,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "1A1ECBC1-320F-4A61-AED1-E4C1F58DF3F3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1A1ECBC1-320F-4A61-AED1-E4C1F58DF3F3";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -260,10 +348,15 @@
 		4B7B3D8C17E0AB3D00B6BEC2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Agility Logistics Corp";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Agility Logistics Corp";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sample/Sample-Prefix.pch";
 				INFOPLIST_FILE = "Sample/Sample-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "1A1ECBC1-320F-4A61-AED1-E4C1F58DF3F3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1A1ECBC1-320F-4A61-AED1-E4C1F58DF3F3";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -271,10 +364,15 @@
 		4B7B3D8D17E0AB3D00B6BEC2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Agility Logistics Corp";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Agility Logistics Corp";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Sample/Sample-Prefix.pch";
 				INFOPLIST_FILE = "Sample/Sample-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "1A1ECBC1-320F-4A61-AED1-E4C1F58DF3F3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "1A1ECBC1-320F-4A61-AED1-E4C1F58DF3F3";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -298,6 +396,7 @@
 				4B7B3D8D17E0AB3D00B6BEC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
